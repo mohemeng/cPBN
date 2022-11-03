@@ -1,12 +1,3 @@
-####### All packages installed here #######
-#install.packages("rootSolve", quiet = TRUE)
-#install.packages("cubature", quiet = TRUE)
-#install.packages("nleqslv", quiet = TRUE)
-
-#suppressMessages(library(rootSolve))
-#suppressMessages(library(cubature))
-#suppressMessages(library(nleqslv))
-
 #' Density for the continuous Poisson distribution with parameter lambda
 #'
 #' @param x vector of (non-negative) quantiles
